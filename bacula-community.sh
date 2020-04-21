@@ -2,8 +2,8 @@
 # Script to install Bacula with packages
 #
 # Author:  Ricardo Gomes
-# Email:   ricardo@biotipo.com.br
-version="1 - 21 Abr 2020"
+# Email:   ricardo98365@outlook.com
+version="1.0 - 21 Abr 2020"
 
 
 #===============================================================================
